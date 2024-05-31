@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/h7io/hwe/compare/v1.1.0...v1.2.0) (2024-05-31)
+
+
+### Features
+
+* **asus:** add supergfctl ([#251](https://github.com/h7io/hwe/issues/251)) ([2fe54d1](https://github.com/h7io/hwe/commit/2fe54d1f3cde3758495872415d8fea4820563bd9))
+
 ## [1.1.0](https://github.com/ublue-os/hwe/compare/v1.0.0...v1.1.0) (2024-04-27)
 
 
